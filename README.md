@@ -32,3 +32,5 @@
 
 ## 📫 Contact Me  
 📧 Email: **gkdlfn579@gmail.com**
+
+[![백준 랭크](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdlfn579)](https://solved.ac/profile/gkdlfn579)
