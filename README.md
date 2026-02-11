@@ -108,12 +108,6 @@ YouTube Data API로 수집한 68,497개 영상 메타데이터 기반 조회수 
 
 ---
 
-## 📊 GitHub Stats
-![Yongmin222's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongmin222&show_icons=true&count_private=false&hide_title=true&hide=prs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongmin222&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact & Credentials
 
 📧 **Email**: gkdlfn579@gmail.com
