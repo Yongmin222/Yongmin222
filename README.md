@@ -66,7 +66,14 @@
 - Kafka Ecosystem 실제 운영 경험
 - 환경 설정 및 배포 프로세스
 
-[📁 GitHub](https://github.com/KFC-KafkaFriedCoders) | [📄 상세 문서](https://github.com/KFC-KafkaFriedCoders)
+**📂 관련 레포지토리**
+- 🔹 [purchase](https://github.com/Yongmin222/purchase) - Kafka Producer & 영수증 데이터 수집
+- 🔹 [sales_total_realtime](https://github.com/Yongmin222/sales_total_realtime) - Flink 실시간 누적 매출
+- 🔹 [duplicate-payment-detector](https://github.com/Yongmin222/duplicate-payment-detector) - Flink 중복 결제 탐지
+- 🔹 [franchise-top-store](https://github.com/Yongmin222/franchise-top-store) - Flink TOP 3 매장 랭킹
+
+**📄 팀 프로젝트 원본**
+- [KFC-KafkaFriedCoders Organization](https://github.com/KFC-KafkaFriedCoders)
 
 ---
 
