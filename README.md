@@ -9,6 +9,14 @@
 
 ## 🏆 Career & Experience
 
+**[AWS-CLF 자격과정 교육]** – *(2026.01.19 ~ 2026.01.24)*
+- AWS 클라우드 기초 개념 학습
+- AWS 서비스 기반 아키텍처 실습
+- CLF 자격증 대비 교육
+- 클라우드 기반 취업 연계 교육 (MCP, Vibe Coding)
+- AWS Certified Cloud Practitioner 자격증 취득
+- AWS, NXT Cloud, 천안과학산업진흥원
+
 **[Google Cloud X 천안과학산업진흥원 - GCP 기반 데이터/AI 엔지니어링]** – *(2025.12.08 ~ 2025.12.26)*
 - BigQuery를 활용한 대용량 데이터 분석 (SQL)
 - Vertex AI AutoML 기반 머신러닝 모델 개발
