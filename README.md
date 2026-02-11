@@ -1,4 +1,3 @@
-### 안녕하세요!
 🔹 **Data Engineer**
 🔹 관심 분야
   - **실시간 데이터 파이프라인** (Kafka, Apache Flink, Stream Processing)
