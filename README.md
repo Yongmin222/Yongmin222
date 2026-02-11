@@ -117,5 +117,5 @@ YouTube Data API로 수집한 68,497개 영상 메타데이터 기반 조회수 
 - **AWS Certified Cloud Practitioner** (2026.01.28)
 - **Data Engineering 실무 교육** (SK Shieldus, Google Cloud, AWS)
 
-### 🎯 Problem Solving
-[![백준 랭크](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdlfn579)](https://solved.ac/profile/gkdlfn579)
+<!-- ### 🎯 Problem Solving
+[![백준 랭크](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkdlfn579)](https://solved.ac/profile/gkdlfn579) -->
