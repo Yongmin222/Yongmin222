@@ -37,15 +37,15 @@ IT 분야로 전환한 비전공자로서, 대용량 데이터 파이프라인 �
 **🔧 기술 스택**
 - **Message Queue**: Confluent Kafka (KRaft 모드, 11개 노드)
 - **Stream Processing**: Apache Flink (3개 병렬 Job)
-- **Data Format**: Avro + Schema Registry (JSON 대비 40% 압축)
+- **Data Format**: Avro + Schema Registry (JSON 대비 데이터 용량 절감)
 - **Backend**: Spring Boot Producer, Kafka Connect
 - **Infrastructure**: AWS EC2 (11개 인스턴스)
 
 **📊 주요 성과**
-- ✅ 22시간+ 무중단 안정 가동 (Exactly-Once 보장)
+- ✅ 22시간+ 무중단 안정 가동 (체크포인트 기반 장애 복구)
 - ✅ 실시간 매출 모니터링 (초 단위 업데이트)
-- ✅ 중복 결제 이상 거래 탐지 (CEP Pattern)
-- ✅ TOP 3 매장 실시간 랭킹 (Sliding Window)
+- ✅ 중복 결제 이상 거래 탐지 (Tumbling Window)
+- ✅ TOP 3 매장 실시간 랭킹 (State 기반)
 - ✅ 분산 환경 트러블슈팅 5건 직접 해결
 
 **📂 관련 레포지토리**
