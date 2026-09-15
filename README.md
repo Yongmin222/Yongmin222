@@ -93,3 +93,4 @@ YouTube Data API로 수집한 68,497개 영상 메타데이터 기반 조회수 
 
 ### 🏅 Certifications
 - **AWS Certified Cloud Practitioner** (2026.01.28)
+- **SQLD (SQL 개발자)** (2026.09.11)
