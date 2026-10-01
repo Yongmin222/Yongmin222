@@ -57,7 +57,7 @@ IT 분야로 전환한 비전공자로서, 대용량 데이터 파이프라인 �
 ---
 
 ### **2. YouTube 영상 조회수 예측 모델 구축**
-**Google Cloud 실무 프로젝트** | 2025.12
+**Google Cloud × 천안과학산업진흥원 엔지니어 양성과정 최종 프로젝트** | 2025.12.08 ~ 2025.12.26
 
 YouTube Data API로 수집한 68,497개 영상 메타데이터 기반 조회수 예측 ML 파이프라인
 
@@ -78,6 +78,9 @@ YouTube Data API로 수집한 68,497개 영상 메타데이터 기반 조회수 
 - 채널 파워(45%) > 콘텐츠 특성(25%) > 제목 키워드(15%)
 - 대형 채널(100만 구독) vs 소형 채널(1만 구독) 간 45배 조회수 차이
 - 키워드 최적화는 소형 채널에서만 약 9% 효과
+
+**📂 관련 레포지토리**
+- 🔹 [youtube-view-prediction](https://github.com/Yongmin222/youtube-view-prediction) - 수집 코드 · SQL · 최종 보고서
 
 📄 **[포트폴리오 상세 보기](https://drive.google.com/file/d/1OGvtYk9S20cwHlCJA2am3N-sJt7NpNfG/view?usp=sharing)**
 
