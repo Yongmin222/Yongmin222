@@ -52,7 +52,7 @@ IT 분야로 전환한 비전공자로서, 대용량 데이터 파이프라인 �
 - 🔹 [hannoon-realtime-pipeline](https://github.com/Yongmin222/hannoon-realtime-pipeline) - Producer + Flink 3종 (매출 집계 · TOP3 랭킹 · 중복 결제 탐지)
 - 🔹 [KFC-KafkaFriedCoders](https://github.com/KFC-KafkaFriedCoders) - 팀 프로젝트 원본
 
-📄 **[포트폴리오 상세 보기](https://drive.google.com/file/d/1HXL0rgfM0Z0XIELI4jh1m845yw6bXplS/view?usp=sharing)**
+📄 **[포트폴리오 상세 보기](https://drive.google.com/drive/folders/1i_OUPCa-OJvc6NGM7yvhLcGCRrb-PPyT?usp=drive_link)**
 
 ---
 
@@ -82,7 +82,7 @@ YouTube Data API로 수집한 68,497개 영상 메타데이터 기반 조회수 
 **📂 관련 레포지토리**
 - 🔹 [youtube-view-prediction](https://github.com/Yongmin222/youtube-view-prediction) - 수집 코드 · SQL · 최종 보고서
 
-📄 **[포트폴리오 상세 보기](https://drive.google.com/file/d/1OGvtYk9S20cwHlCJA2am3N-sJt7NpNfG/view?usp=sharing)**
+📄 **[포트폴리오 상세 보기](https://drive.google.com/drive/folders/1i_OUPCa-OJvc6NGM7yvhLcGCRrb-PPyT?usp=drive_link)**
 
 ### **3. 이커머스 배치 데이터 파이프라인**
 **개인 프로젝트** | 설계 · 구축 · 운영 전 과정 단독 수행 | 2026.09
