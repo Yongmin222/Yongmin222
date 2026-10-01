@@ -49,10 +49,7 @@ IT 분야로 전환한 비전공자로서, 대용량 데이터 파이프라인 �
 - ✅ 분산 환경 트러블슈팅 5건 직접 해결
 
 **📂 관련 레포지토리**
-- 🔹 [purchase](https://github.com/Yongmin222/purchase) - Kafka Producer & 영수증 데이터 수집
-- 🔹 [sales_total_realtime](https://github.com/Yongmin222/sales_total_realtime) - Flink 실시간 누적 매출
-- 🔹 [duplicate-payment-detector](https://github.com/Yongmin222/duplicate-payment-detector) - Flink 중복 결제 탐지
-- 🔹 [franchise-top-store](https://github.com/Yongmin222/franchise-top-store) - Flink TOP 3 매장 랭킹
+- 🔹 [hannoon-realtime-pipeline](https://github.com/Yongmin222/hannoon-realtime-pipeline) - Producer + Flink 3종 (매출 집계 · TOP3 랭킹 · 중복 결제 탐지)
 - 🔹 [KFC-KafkaFriedCoders](https://github.com/KFC-KafkaFriedCoders) - 팀 프로젝트 원본
 
 📄 **[포트폴리오 상세 보기](https://drive.google.com/file/d/1HXL0rgfM0Z0XIELI4jh1m845yw6bXplS/view?usp=sharing)**
@@ -83,6 +80,27 @@ YouTube Data API로 수집한 68,497개 영상 메타데이터 기반 조회수 
 - 키워드 최적화는 소형 채널에서만 약 9% 효과
 
 📄 **[포트폴리오 상세 보기](https://drive.google.com/file/d/1OGvtYk9S20cwHlCJA2am3N-sJt7NpNfG/view?usp=sharing)**
+
+### **3. 이커머스 배치 데이터 파이프라인**
+**개인 프로젝트** | 설계 · 구축 · 운영 전 과정 단독 수행 | 2026.09
+
+Kaggle 화장품 쇼핑몰 이벤트 로그(410만 행)를 정제 → 적재 → 집계 → 자동화 → 시각화하는 배치 데이터 파이프라인
+
+**🔧 기술 스택**
+- **Orchestration**: Apache Airflow 2.9.3 (매일 UTC 02:00 자동 스케줄)
+- **Processing**: Apache Spark 4.0 (Master + Worker 클러스터), Pandas
+- **Storage**: MySQL 8.0
+- **Visualization**: Apache Superset
+- **Infrastructure**: Docker Compose, NAVER Cloud 서버
+
+**📊 주요 성과**
+- ✅ 사람 개입 없이 스케줄대로 자동 실행되는 것 검증 완료
+- ✅ 결측치(최대 98.4%)·이상치 처리 기준을 세우고 근거를 문서화
+- ✅ Docker-in-Docker 권한, Spark 메모리 부족, 재시도 시 데이터 10배 중복 적재 등 6건 직접 해결
+- ✅ 일별 매출 요일 패턴, 브랜드별 조회수 쏠림(3배 이상) 인사이트 도출
+
+**📂 관련 레포지토리**
+- 🔹 [de-ecommerce-batch-pipeline](https://github.com/Yongmin222/de-ecommerce-batch-pipeline)
 
 ---
 
