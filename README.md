@@ -22,6 +22,9 @@ IT 분야로 전환한 비전공자로서, 대용량 데이터 파이프라인 �
 ### **🐍 Programming & Data Tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
+### **⚙️ Batch Processing & Orchestration**
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white)
+
 ### **🔧 DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -115,3 +118,10 @@ Kaggle 화장품 쇼핑몰 이벤트 로그(410만 행)를 정제 → 적재 →
 ### 🏅 Certifications
 - **AWS Certified Cloud Practitioner** (2026.01.28)
 - **SQLD (SQL 개발자)** (2026.09.11)
+
+### 📚 Education
+- **수도권ICT이노베이션스퀘어 × NIPA** 중급 데이터 엔지니어링 과정 (2026.09 ~ 2026.11, 진행 중)
+- Docker 개발환경, Python ETL/Data Lake(MinIO · Iceberg), Spark · Kafka 실시간 스트리밍, Airflow 오케스트레이션, RAG
+
+**📂 관련 레포지토리**
+- 🔹 [data-eng-course](https://github.com/Yongmin222/data-eng-course) - 교육 과정 주차별 핵심 실습 코드
